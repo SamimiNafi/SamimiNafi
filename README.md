@@ -1,4 +1,4 @@
-[- 👋 Hi, I’m @SamimiNafi.
+- 👋 Hi, I’m @SamimiNafi.
 - 👀 I’m interested in Web devolpment.
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate on nothing
